@@ -52,3 +52,7 @@
 </table>
 <img width="80%" alt="image" src="https://github.com/heayounchoi/VGGNet-CIFAR10/assets/118031423/b31cbd96-36e4-42a6-8470-9a216f6ad564">
 
+<img src="https://github.com/heayounchoi/VGGNet-CIFAR10/assets/118031423/da4f7f62-457b-4510-8859-45e0e42b8800" width="40%" height="40%">
+<img src="https://github.com/heayounchoi/VGGNet-CIFAR10/assets/118031423/d8407b09-e207-43e5-944d-c1f5f5217da9" width="40%" height="40%">
+<img src="https://github.com/heayounchoi/VGGNet-CIFAR10/assets/118031423/73732217-3117-42e6-aa50-e3405f81f82b" width="40%" height="40%">
+<img src="https://github.com/heayounchoi/VGGNet-CIFAR10/assets/118031423/476275e8-a7c0-4414-a580-7c6115cea1c4" width="40%" height="40%">
